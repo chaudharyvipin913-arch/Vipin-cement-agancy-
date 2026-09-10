@@ -1,0 +1,6 @@
+{
+  "name": "Vipin Cement Agency",
+  "description": "Premium local cement and construction material agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
